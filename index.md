@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2019/12/11/logo@4x.png"
+  logo: "/uploads/2019/12/11/logo-oneline.svg"
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
